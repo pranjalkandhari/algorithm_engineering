@@ -1,0 +1,2645 @@
+input_data/graph_01.txt
+APPROXIMATION:
+2
+Execution time: 0.545 milliseconds
+------
+APPROXIMATION PARALLEL:
+2
+Execution time: 2.272 milliseconds
+------
+HEURISTIC 2:
+2
+Execution time: 0.069 milliseconds
+------
+-----------------------
+input_data/graph_02.txt
+APPROXIMATION:
+18
+Execution time: 0.482 milliseconds
+------
+APPROXIMATION PARALLEL:
+18
+Execution time: 11.082 milliseconds
+------
+HEURISTIC 2:
+18
+Execution time: 0.306 milliseconds
+------
+-----------------------
+input_data/graph_03.txt
+APPROXIMATION:
+2
+Execution time: 0.222 milliseconds
+------
+APPROXIMATION PARALLEL:
+2
+Execution time: 2.134 milliseconds
+------
+HEURISTIC 2:
+2
+Execution time: 0.042 milliseconds
+------
+-----------------------
+input_data/graph_04.txt
+APPROXIMATION:
+3
+Execution time: 0.21 milliseconds
+------
+APPROXIMATION PARALLEL:
+3
+Execution time: 2.379 milliseconds
+------
+HEURISTIC 2:
+3
+Execution time: 0.083 milliseconds
+------
+-----------------------
+input_data/graph_05.txt
+APPROXIMATION:
+3
+Execution time: 0.279 milliseconds
+------
+APPROXIMATION PARALLEL:
+3
+Execution time: 2.18 milliseconds
+------
+HEURISTIC 2:
+3
+Execution time: 0.091 milliseconds
+------
+-----------------------
+input_data/graph_06.txt
+APPROXIMATION:
+4
+Execution time: 0.244 milliseconds
+------
+APPROXIMATION PARALLEL:
+4
+Execution time: 3.324 milliseconds
+------
+HEURISTIC 2:
+4
+Execution time: 0.155 milliseconds
+------
+-----------------------
+input_data/graph_07.txt
+APPROXIMATION:
+3
+Execution time: 0.312 milliseconds
+------
+APPROXIMATION PARALLEL:
+3
+Execution time: 2.08 milliseconds
+------
+HEURISTIC 2:
+2
+Execution time: 0.072 milliseconds
+------
+-----------------------
+input_data/graph_08.txt
+APPROXIMATION:
+1
+Execution time: 0.285 milliseconds
+------
+APPROXIMATION PARALLEL:
+1
+Execution time: 1.342 milliseconds
+------
+HEURISTIC 2:
+1
+Execution time: 0.077 milliseconds
+------
+-----------------------
+input_data/graph_09.txt
+APPROXIMATION:
+2
+Execution time: 0.241 milliseconds
+------
+APPROXIMATION PARALLEL:
+2
+Execution time: 1.895 milliseconds
+------
+HEURISTIC 2:
+2
+Execution time: 0.078 milliseconds
+------
+-----------------------
+input_data/graph_10.txt
+APPROXIMATION:
+6
+Execution time: 0.238 milliseconds
+------
+APPROXIMATION PARALLEL:
+6
+Execution time: 3.051 milliseconds
+------
+HEURISTIC 2:
+6
+Execution time: 0.09 milliseconds
+------
+-----------------------
+input_data/graph_11.txt
+APPROXIMATION:
+4
+Execution time: 0.401 milliseconds
+------
+APPROXIMATION PARALLEL:
+4
+Execution time: 3.545 milliseconds
+------
+HEURISTIC 2:
+13
+Execution time: 0.092 milliseconds
+------
+-----------------------
+input_data/pace_002.txt
+APPROXIMATION:
+48
+Execution time: 26.62 milliseconds
+------
+APPROXIMATION PARALLEL:
+48
+Execution time: 62.911 milliseconds
+------
+HEURISTIC 2:
+74
+Execution time: 428.455 milliseconds
+------
+-----------------------
+input_data/pace_003.txt
+APPROXIMATION:
+9
+Execution time: 0.975 milliseconds
+------
+APPROXIMATION PARALLEL:
+9
+Execution time: 7.938 milliseconds
+------
+HEURISTIC 2:
+13
+Execution time: 2.037 milliseconds
+------
+-----------------------
+input_data/pace_004.txt
+APPROXIMATION:
+115
+Execution time: 52.19 milliseconds
+------
+APPROXIMATION PARALLEL:
+115
+Execution time: 118.683 milliseconds
+------
+HEURISTIC 2:
+136
+Execution time: 55.816 milliseconds
+------
+-----------------------
+input_data/pace_005.txt
+APPROXIMATION:
+22
+Execution time: 1.536 milliseconds
+------
+APPROXIMATION PARALLEL:
+22
+Execution time: 17.138 milliseconds
+------
+HEURISTIC 2:
+25
+Execution time: 1.995 milliseconds
+------
+-----------------------
+input_data/pace_006.txt
+APPROXIMATION:
+7
+Execution time: 9.466 milliseconds
+------
+APPROXIMATION PARALLEL:
+7
+Execution time: 17.213 milliseconds
+------
+HEURISTIC 2:
+39
+Execution time: 408.172 milliseconds
+------
+-----------------------
+input_data/pace_007.txt
+APPROXIMATION:
+18
+Execution time: 1.071 milliseconds
+------
+APPROXIMATION PARALLEL:
+18
+Execution time: 13.646 milliseconds
+------
+HEURISTIC 2:
+20
+Execution time: 1.089 milliseconds
+------
+-----------------------
+input_data/pace_008.txt
+APPROXIMATION:
+136
+Execution time: 598.727 milliseconds
+------
+APPROXIMATION PARALLEL:
+136
+Execution time: 957.219 milliseconds
+------
+HEURISTIC 2:
+202
+Execution time: 24371 milliseconds
+------
+-----------------------
+input_data/pace_009.txt
+APPROXIMATION:
+24
+Execution time: 3.753 milliseconds
+------
+APPROXIMATION PARALLEL:
+24
+Execution time: 23.357 milliseconds
+------
+HEURISTIC 2:
+44
+Execution time: 7.539 milliseconds
+------
+-----------------------
+input_data/pace_010.txt
+APPROXIMATION:
+138
+Execution time: 43.831 milliseconds
+------
+APPROXIMATION PARALLEL:
+138
+Execution time: 138.533 milliseconds
+------
+HEURISTIC 2:
+141
+Execution time: 18.332 milliseconds
+------
+-----------------------
+input_data/pace_011.txt
+APPROXIMATION:
+44
+Execution time: 8.057 milliseconds
+------
+APPROXIMATION PARALLEL:
+44
+Execution time: 42.275 milliseconds
+------
+HEURISTIC 2:
+57
+Execution time: 12.044 milliseconds
+------
+-----------------------
+input_data/pace_012.txt
+APPROXIMATION:
+33
+Execution time: 4.439 milliseconds
+------
+APPROXIMATION PARALLEL:
+33
+Execution time: 29.781 milliseconds
+------
+HEURISTIC 2:
+31
+Execution time: 8.588 milliseconds
+------
+-----------------------
+input_data/pace_013.txt
+APPROXIMATION:
+86
+Execution time: 42.194 milliseconds
+------
+APPROXIMATION PARALLEL:
+86
+Execution time: 101.061 milliseconds
+------
+HEURISTIC 2:
+74
+Execution time: 78.635 milliseconds
+------
+-----------------------
+input_data/pace_014.txt
+APPROXIMATION:
+64
+Execution time: 774.515 milliseconds
+------
+APPROXIMATION PARALLEL:
+64
+Execution time: 601.769 milliseconds
+------
+HEURISTIC 2:
+609
+Execution time: 17560.2 milliseconds
+------
+-----------------------
+input_data/pace_015.txt
+APPROXIMATION:
+14
+Execution time: 1.617 milliseconds
+------
+APPROXIMATION PARALLEL:
+14
+Execution time: 14.341 milliseconds
+------
+HEURISTIC 2:
+28
+Execution time: 9.654 milliseconds
+------
+-----------------------
+input_data/pace_016.txt
+APPROXIMATION:
+79
+Execution time: 26.329 milliseconds
+------
+APPROXIMATION PARALLEL:
+79
+Execution time: 83.046 milliseconds
+------
+HEURISTIC 2:
+80
+Execution time: 45.262 milliseconds
+------
+-----------------------
+input_data/pace_017.txt
+APPROXIMATION:
+52
+Execution time: 8.382 milliseconds
+------
+APPROXIMATION PARALLEL:
+52
+Execution time: 46.672 milliseconds
+------
+HEURISTIC 2:
+63
+Execution time: 9.453 milliseconds
+------
+-----------------------
+input_data/pace_018.txt
+APPROXIMATION:
+39
+Execution time: 23.697 milliseconds
+------
+APPROXIMATION PARALLEL:
+39
+Execution time: 54.224 milliseconds
+------
+HEURISTIC 2:
+110
+Execution time: 104.029 milliseconds
+------
+-----------------------
+input_data/pace_020.txt
+APPROXIMATION:
+5
+Execution time: 0.948 milliseconds
+------
+APPROXIMATION PARALLEL:
+5
+Execution time: 5.056 milliseconds
+------
+HEURISTIC 2:
+15
+Execution time: 3.903 milliseconds
+------
+-----------------------
+input_data/pace_021.txt
+APPROXIMATION:
+131
+Execution time: 542.127 milliseconds
+------
+APPROXIMATION PARALLEL:
+131
+Execution time: 910.497 milliseconds
+------
+HEURISTIC 2:
+197
+Execution time: 24473.6 milliseconds
+------
+-----------------------
+input_data/pace_023.txt
+APPROXIMATION:
+67
+Execution time: 64.51 milliseconds
+------
+APPROXIMATION PARALLEL:
+67
+Execution time: 100.52 milliseconds
+------
+HEURISTIC 2:
+148
+Execution time: 112.984 milliseconds
+------
+-----------------------
+input_data/pace_024.txt
+APPROXIMATION:
+22
+Execution time: 0.89 milliseconds
+------
+APPROXIMATION PARALLEL:
+22
+Execution time: 18.807 milliseconds
+------
+HEURISTIC 2:
+23
+Execution time: 0.374 milliseconds
+------
+-----------------------
+input_data/pace_025.txt
+APPROXIMATION:
+91
+Execution time: 332.407 milliseconds
+------
+APPROXIMATION PARALLEL:
+91
+Execution time: 523.681 milliseconds
+------
+HEURISTIC 2:
+248
+Execution time: 11781.7 milliseconds
+------
+-----------------------
+input_data/pace_026.txt
+APPROXIMATION:
+54
+Execution time: 8.142 milliseconds
+------
+APPROXIMATION PARALLEL:
+54
+Execution time: 49.795 milliseconds
+------
+HEURISTIC 2:
+69
+Execution time: 6.414 milliseconds
+------
+-----------------------
+input_data/pace_027.txt
+APPROXIMATION:
+40
+Execution time: 6.605 milliseconds
+------
+APPROXIMATION PARALLEL:
+40
+Execution time: 36.991 milliseconds
+------
+HEURISTIC 2:
+33
+Execution time: 11.201 milliseconds
+------
+-----------------------
+input_data/pace_028.txt
+APPROXIMATION:
+3
+Execution time: 1.07 milliseconds
+------
+APPROXIMATION PARALLEL:
+3
+Execution time: 5.14 milliseconds
+------
+HEURISTIC 2:
+10
+Execution time: 3.187 milliseconds
+------
+-----------------------
+input_data/pace_029.txt
+APPROXIMATION:
+34
+Execution time: 2.955 milliseconds
+------
+APPROXIMATION PARALLEL:
+34
+Execution time: 29.191 milliseconds
+------
+HEURISTIC 2:
+34
+Execution time: 3.465 milliseconds
+------
+-----------------------
+input_data/pace_030.txt
+APPROXIMATION:
+19
+Execution time: 0.857 milliseconds
+------
+APPROXIMATION PARALLEL:
+19
+Execution time: 14.331 milliseconds
+------
+HEURISTIC 2:
+21
+Execution time: 0.679 milliseconds
+------
+-----------------------
+input_data/pace_031.txt
+APPROXIMATION:
+31
+Execution time: 7.64 milliseconds
+------
+APPROXIMATION PARALLEL:
+31
+Execution time: 31.581 milliseconds
+------
+HEURISTIC 2:
+60
+Execution time: 86.028 milliseconds
+------
+-----------------------
+input_data/pace_033.txt
+APPROXIMATION:
+192
+Execution time: 341.108 milliseconds
+------
+APPROXIMATION PARALLEL:
+192
+Execution time: 559.479 milliseconds
+------
+HEURISTIC 2:
+170
+Execution time: 911.088 milliseconds
+------
+-----------------------
+input_data/pace_034.txt
+APPROXIMATION:
+69
+Execution time: 18.688 milliseconds
+------
+APPROXIMATION PARALLEL:
+69
+Execution time: 67.116 milliseconds
+------
+HEURISTIC 2:
+96
+Execution time: 23.429 milliseconds
+------
+-----------------------
+input_data/pace_035.txt
+APPROXIMATION:
+88
+Execution time: 29.865 milliseconds
+------
+APPROXIMATION PARALLEL:
+88
+Execution time: 91.116 milliseconds
+------
+HEURISTIC 2:
+87
+Execution time: 32.867 milliseconds
+------
+-----------------------
+input_data/pace_036.txt
+APPROXIMATION:
+0
+Execution time: 62.828 milliseconds
+------
+APPROXIMATION PARALLEL:
+0
+Execution time: 66.466 milliseconds
+------
+HEURISTIC 2:
+643
+Execution time: 16957.7 milliseconds
+------
+-----------------------
+input_data/pace_039.txt
+APPROXIMATION:
+194
+Execution time: 1433.04 milliseconds
+------
+APPROXIMATION PARALLEL:
+188
+Execution time: 2176.28 milliseconds
+------
+HEURISTIC 2:
+810
+Execution time: 85212.3 milliseconds
+------
+-----------------------
+input_data/pace_042.txt
+APPROXIMATION:
+5
+Execution time: 0.693 milliseconds
+------
+APPROXIMATION PARALLEL:
+5
+Execution time: 11.585 milliseconds
+------
+HEURISTIC 2:
+12
+Execution time: 3.4 milliseconds
+------
+-----------------------
+input_data/pace_043.txt
+APPROXIMATION:
+140
+Execution time: 75.679 milliseconds
+------
+APPROXIMATION PARALLEL:
+140
+Execution time: 189.481 milliseconds
+------
+HEURISTIC 2:
+176
+Execution time: 61.556 milliseconds
+------
+-----------------------
+input_data/pace_044.txt
+APPROXIMATION:
+25
+Execution time: 5.643 milliseconds
+------
+APPROXIMATION PARALLEL:
+25
+Execution time: 24.304 milliseconds
+------
+HEURISTIC 2:
+43
+Execution time: 8.652 milliseconds
+------
+-----------------------
+input_data/pace_046.txt
+APPROXIMATION:
+11
+Execution time: 2.714 milliseconds
+------
+APPROXIMATION PARALLEL:
+11
+Execution time: 8.61 milliseconds
+------
+HEURISTIC 2:
+32
+Execution time: 3.102 milliseconds
+------
+-----------------------
+input_data/pace_047.txt
+APPROXIMATION:
+32
+Execution time: 3.243 milliseconds
+------
+APPROXIMATION PARALLEL:
+32
+Execution time: 27.687 milliseconds
+------
+HEURISTIC 2:
+34
+Execution time: 5.994 milliseconds
+------
+-----------------------
+input_data/pace_048.txt
+APPROXIMATION:
+128
+Execution time: 58.998 milliseconds
+------
+APPROXIMATION PARALLEL:
+128
+Execution time: 145.616 milliseconds
+------
+HEURISTIC 2:
+179
+Execution time: 40.158 milliseconds
+------
+-----------------------
+input_data/pace_049.txt
+APPROXIMATION:
+34
+Execution time: 27.06 milliseconds
+------
+APPROXIMATION PARALLEL:
+34
+Execution time: 49.816 milliseconds
+------
+HEURISTIC 2:
+76
+Execution time: 365.119 milliseconds
+------
+-----------------------
+input_data/pace_050.txt
+APPROXIMATION:
+5
+Execution time: 0.55 milliseconds
+------
+APPROXIMATION PARALLEL:
+5
+Execution time: 5.804 milliseconds
+------
+HEURISTIC 2:
+11
+Execution time: 1.589 milliseconds
+------
+-----------------------
+input_data/pace_051.txt
+APPROXIMATION:
+29
+Execution time: 1.777 milliseconds
+------
+APPROXIMATION PARALLEL:
+29
+Execution time: 23.571 milliseconds
+------
+HEURISTIC 2:
+29
+Execution time: 1.175 milliseconds
+------
+-----------------------
+input_data/pace_052.txt
+APPROXIMATION:
+131
+Execution time: 601.872 milliseconds
+------
+APPROXIMATION PARALLEL:
+131
+Execution time: 865.497 milliseconds
+------
+HEURISTIC 2:
+302
+Execution time: 17936.5 milliseconds
+------
+-----------------------
+input_data/pace_053.txt
+APPROXIMATION:
+97
+Execution time: 137.22 milliseconds
+------
+APPROXIMATION PARALLEL:
+97
+Execution time: 307.217 milliseconds
+------
+HEURISTIC 2:
+282
+Execution time: 4892.15 milliseconds
+------
+-----------------------
+input_data/pace_054.txt
+APPROXIMATION:
+108
+Execution time: 40.022 milliseconds
+------
+APPROXIMATION PARALLEL:
+108
+Execution time: 114.14 milliseconds
+------
+HEURISTIC 2:
+125
+Execution time: 36.705 milliseconds
+------
+-----------------------
+input_data/pace_055.txt
+APPROXIMATION:
+104
+Execution time: 118.707 milliseconds
+------
+APPROXIMATION PARALLEL:
+104
+Execution time: 214.896 milliseconds
+------
+HEURISTIC 2:
+229
+Execution time: 814.774 milliseconds
+------
+-----------------------
+input_data/pace_056.txt
+APPROXIMATION:
+140
+Execution time: 720.644 milliseconds
+------
+APPROXIMATION PARALLEL:
+140
+Execution time: 1061.44 milliseconds
+------
+HEURISTIC 2:
+314
+Execution time: 20297.2 milliseconds
+------
+-----------------------
+input_data/pace_057.txt
+APPROXIMATION:
+19
+Execution time: 214.459 milliseconds
+------
+APPROXIMATION PARALLEL:
+19
+Execution time: 197.234 milliseconds
+------
+HEURISTIC 2:
+466
+Execution time: 12837.3 milliseconds
+------
+-----------------------
+input_data/pace_059.txt
+APPROXIMATION:
+20
+Execution time: 4.477 milliseconds
+------
+APPROXIMATION PARALLEL:
+20
+Execution time: 21.104 milliseconds
+------
+HEURISTIC 2:
+69
+Execution time: 27.172 milliseconds
+------
+-----------------------
+input_data/pace_060.txt
+APPROXIMATION:
+29
+Execution time: 1.917 milliseconds
+------
+APPROXIMATION PARALLEL:
+29
+Execution time: 23.675 milliseconds
+------
+HEURISTIC 2:
+33
+Execution time: 2.005 milliseconds
+------
+-----------------------
+input_data/pace_061.txt
+APPROXIMATION:
+56
+Execution time: 7.442 milliseconds
+------
+APPROXIMATION PARALLEL:
+56
+Execution time: 47.004 milliseconds
+------
+HEURISTIC 2:
+56
+Execution time: 4.864 milliseconds
+------
+-----------------------
+input_data/pace_062.txt
+APPROXIMATION:
+5
+Execution time: 0.487 milliseconds
+------
+APPROXIMATION PARALLEL:
+5
+Execution time: 5.111 milliseconds
+------
+HEURISTIC 2:
+12
+Execution time: 1.938 milliseconds
+------
+-----------------------
+input_data/pace_063.txt
+APPROXIMATION:
+227
+Execution time: 188.785 milliseconds
+------
+APPROXIMATION PARALLEL:
+227
+Execution time: 357.893 milliseconds
+------
+HEURISTIC 2:
+208
+Execution time: 181.596 milliseconds
+------
+-----------------------
+input_data/pace_064.txt
+APPROXIMATION:
+150
+Execution time: 71.141 milliseconds
+------
+APPROXIMATION PARALLEL:
+150
+Execution time: 168.787 milliseconds
+------
+HEURISTIC 2:
+177
+Execution time: 45.121 milliseconds
+------
+-----------------------
+input_data/pace_065.txt
+APPROXIMATION:
+24
+Execution time: 1.899 milliseconds
+------
+APPROXIMATION PARALLEL:
+24
+Execution time: 21.395 milliseconds
+------
+HEURISTIC 2:
+24
+Execution time: 2.891 milliseconds
+------
+-----------------------
+input_data/pace_066.txt
+APPROXIMATION:
+87
+Execution time: 16.821 milliseconds
+------
+APPROXIMATION PARALLEL:
+87
+Execution time: 82.041 milliseconds
+------
+HEURISTIC 2:
+94
+Execution time: 12.552 milliseconds
+------
+-----------------------
+input_data/pace_067.txt
+APPROXIMATION:
+55
+Execution time: 12.479 milliseconds
+------
+APPROXIMATION PARALLEL:
+55
+Execution time: 52.54 milliseconds
+------
+HEURISTIC 2:
+88
+Execution time: 17.195 milliseconds
+------
+-----------------------
+input_data/pace_069.txt
+APPROXIMATION:
+33
+Execution time: 39.502 milliseconds
+------
+APPROXIMATION PARALLEL:
+33
+Execution time: 88.168 milliseconds
+------
+HEURISTIC 2:
+90
+Execution time: 2381.55 milliseconds
+------
+-----------------------
+input_data/pace_070.txt
+APPROXIMATION:
+3
+Execution time: 1.94 milliseconds
+------
+APPROXIMATION PARALLEL:
+3
+Execution time: 5.413 milliseconds
+------
+HEURISTIC 2:
+29
+Execution time: 37.297 milliseconds
+------
+-----------------------
+input_data/pace_071.txt
+APPROXIMATION:
+259
+Execution time: 1724.9 milliseconds
+------
+APPROXIMATION PARALLEL:
+259
+Execution time: 1695.17 milliseconds
+------
+HEURISTIC 2:
+655
+Execution time: 6493.03 milliseconds
+------
+-----------------------
+input_data/pace_072.txt
+APPROXIMATION:
+0
+Execution time: 0.664 milliseconds
+------
+APPROXIMATION PARALLEL:
+0
+Execution time: 2.997 milliseconds
+------
+HEURISTIC 2:
+30
+Execution time: 7.041 milliseconds
+------
+-----------------------
+input_data/pace_075.txt
+APPROXIMATION:
+93
+Execution time: 35.483 milliseconds
+------
+APPROXIMATION PARALLEL:
+93
+Execution time: 103.155 milliseconds
+------
+HEURISTIC 2:
+93
+Execution time: 59.802 milliseconds
+------
+-----------------------
+input_data/pace_076.txt
+APPROXIMATION:
+37
+Execution time: 3.521 milliseconds
+------
+APPROXIMATION PARALLEL:
+37
+Execution time: 29.992 milliseconds
+------
+HEURISTIC 2:
+40
+Execution time: 4.264 milliseconds
+------
+-----------------------
+input_data/pace_077.txt
+APPROXIMATION:
+14
+Execution time: 2.087 milliseconds
+------
+APPROXIMATION PARALLEL:
+14
+Execution time: 14.882 milliseconds
+------
+HEURISTIC 2:
+29
+Execution time: 8.585 milliseconds
+------
+-----------------------
+input_data/pace_078.txt
+APPROXIMATION:
+24
+Execution time: 791.423 milliseconds
+------
+APPROXIMATION PARALLEL:
+24
+Execution time: 828.234 milliseconds
+------
+HEURISTIC 2:
+381
+Execution time: 123592 milliseconds
+------
+-----------------------
+input_data/pace_081.txt
+APPROXIMATION:
+97
+Execution time: 52.399 milliseconds
+------
+APPROXIMATION PARALLEL:
+97
+Execution time: 113.692 milliseconds
+------
+HEURISTIC 2:
+120
+Execution time: 41.479 milliseconds
+------
+-----------------------
+input_data/pace_083.txt
+APPROXIMATION:
+9
+Execution time: 1.042 milliseconds
+------
+APPROXIMATION PARALLEL:
+9
+Execution time: 17.643 milliseconds
+------
+HEURISTIC 2:
+11
+Execution time: 0.642 milliseconds
+------
+-----------------------
+input_data/pace_084.txt
+APPROXIMATION:
+0
+Execution time: 12557.2 milliseconds
+------
+APPROXIMATION PARALLEL:
+0
+Execution time: 12626 milliseconds
+------
+HEURISTIC 2:
+2387
+Execution time: 3.47086e+06 milliseconds
+------
+-----------------------
+input_data/pace_085.txt
+APPROXIMATION:
+27
+Execution time: 76.192 milliseconds
+------
+APPROXIMATION PARALLEL:
+27
+Execution time: 151.164 milliseconds
+------
+HEURISTIC 2:
+70
+Execution time: 4132.25 milliseconds
+------
+-----------------------
+input_data/pace_086.txt
+APPROXIMATION:
+34
+Execution time: 5.659 milliseconds
+------
+APPROXIMATION PARALLEL:
+34
+Execution time: 31.88 milliseconds
+------
+HEURISTIC 2:
+51
+Execution time: 7.419 milliseconds
+------
+-----------------------
+input_data/pace_087.txt
+APPROXIMATION:
+85
+Execution time: 42.627 milliseconds
+------
+APPROXIMATION PARALLEL:
+85
+Execution time: 98.449 milliseconds
+------
+HEURISTIC 2:
+123
+Execution time: 115.865 milliseconds
+------
+-----------------------
+input_data/pace_088.txt
+APPROXIMATION:
+0
+Execution time: 94.113 milliseconds
+------
+APPROXIMATION PARALLEL:
+0
+Execution time: 95.671 milliseconds
+------
+HEURISTIC 2:
+794
+Execution time: 27154.1 milliseconds
+------
+-----------------------
+input_data/pace_089.txt
+APPROXIMATION:
+102
+Execution time: 46.707 milliseconds
+------
+APPROXIMATION PARALLEL:
+102
+Execution time: 121.288 milliseconds
+------
+HEURISTIC 2:
+123
+Execution time: 46.417 milliseconds
+------
+-----------------------
+input_data/pace_090.txt
+APPROXIMATION:
+63
+Execution time: 756.925 milliseconds
+------
+APPROXIMATION PARALLEL:
+63
+Execution time: 1121.81 milliseconds
+------
+HEURISTIC 2:
+429
+Execution time: 80941.2 milliseconds
+------
+-----------------------
+input_data/pace_091.txt
+APPROXIMATION:
+0
+Execution time: 1.718 milliseconds
+------
+APPROXIMATION PARALLEL:
+0
+Execution time: 3.994 milliseconds
+------
+HEURISTIC 2:
+49
+Execution time: 55.118 milliseconds
+------
+-----------------------
+input_data/pace_092.txt
+APPROXIMATION:
+19
+Execution time: 1.047 milliseconds
+------
+APPROXIMATION PARALLEL:
+19
+Execution time: 15.177 milliseconds
+------
+HEURISTIC 2:
+20
+Execution time: 1.034 milliseconds
+------
+-----------------------
+input_data/pace_093.txt
+APPROXIMATION:
+140
+Execution time: 37.117 milliseconds
+------
+APPROXIMATION PARALLEL:
+140
+Execution time: 132.331 milliseconds
+------
+HEURISTIC 2:
+146
+Execution time: 17.794 milliseconds
+------
+-----------------------
+input_data/pace_094.txt
+APPROXIMATION:
+91
+Execution time: 20.186 milliseconds
+------
+APPROXIMATION PARALLEL:
+91
+Execution time: 84.223 milliseconds
+------
+HEURISTIC 2:
+97
+Execution time: 14.541 milliseconds
+------
+-----------------------
+input_data/pace_095.txt
+APPROXIMATION:
+2
+Execution time: 0.471 milliseconds
+------
+APPROXIMATION PARALLEL:
+2
+Execution time: 3.521 milliseconds
+------
+HEURISTIC 2:
+11
+Execution time: 3.373 milliseconds
+------
+-----------------------
+input_data/pace_096.txt
+APPROXIMATION:
+4
+Execution time: 0.459 milliseconds
+------
+APPROXIMATION PARALLEL:
+4
+Execution time: 4.53 milliseconds
+------
+HEURISTIC 2:
+11
+Execution time: 1.47 milliseconds
+------
+-----------------------
+input_data/pace_097.txt
+APPROXIMATION:
+62
+Execution time: 7.526 milliseconds
+------
+APPROXIMATION PARALLEL:
+62
+Execution time: 50.889 milliseconds
+------
+HEURISTIC 2:
+57
+Execution time: 4.905 milliseconds
+------
+-----------------------
+input_data/pace_098.txt
+APPROXIMATION:
+14
+Execution time: 1.635 milliseconds
+------
+APPROXIMATION PARALLEL:
+14
+Execution time: 11.642 milliseconds
+------
+HEURISTIC 2:
+27
+Execution time: 9.54 milliseconds
+------
+-----------------------
+input_data/pace_099.txt
+APPROXIMATION:
+10
+Execution time: 0.585 milliseconds
+------
+APPROXIMATION PARALLEL:
+10
+Execution time: 9.289 milliseconds
+------
+HEURISTIC 2:
+10
+Execution time: 0.676 milliseconds
+------
+-----------------------
+input_data/pace_100.txt
+APPROXIMATION:
+119
+Execution time: 34.642 milliseconds
+------
+APPROXIMATION PARALLEL:
+119
+Execution time: 112.897 milliseconds
+------
+HEURISTIC 2:
+109
+Execution time: 21.655 milliseconds
+------
+-----------------------
+input_data/pace_hidden_1.txt
+APPROXIMATION:
+35
+Execution time: 4.124 milliseconds
+------
+APPROXIMATION PARALLEL:
+35
+Execution time: 30.774 milliseconds
+------
+HEURISTIC 2:
+50
+Execution time: 7.05 milliseconds
+------
+-----------------------
+input_data/pace_hidden_10.txt
+APPROXIMATION:
+61
+Execution time: 798.784 milliseconds
+------
+APPROXIMATION PARALLEL:
+61
+Execution time: 1127.16 milliseconds
+------
+HEURISTIC 2:
+383
+Execution time: 81778.8 milliseconds
+------
+-----------------------
+input_data/pace_hidden_100.txt
+APPROXIMATION:
+341
+Execution time: 649.423 milliseconds
+------
+APPROXIMATION PARALLEL:
+341
+Execution time: 968.525 milliseconds
+------
+HEURISTIC 2:
+313
+Execution time: 683.531 milliseconds
+------
+-----------------------
+input_data/pace_hidden_101.txt
+APPROXIMATION:
+354
+Execution time: 890.82 milliseconds
+------
+APPROXIMATION PARALLEL:
+354
+Execution time: 1150.88 milliseconds
+------
+HEURISTIC 2:
+361
+Execution time: 1475.58 milliseconds
+------
+-----------------------
+input_data/pace_hidden_102.txt
+APPROXIMATION:
+536
+Execution time: 1766.97 milliseconds
+------
+APPROXIMATION PARALLEL:
+495
+Execution time: 2008.14 milliseconds
+------
+HEURISTIC 2:
+425
+Execution time: 2186.84 milliseconds
+------
+-----------------------
+input_data/pace_hidden_103.txt
+APPROXIMATION:
+144
+Execution time: 65.305 milliseconds
+------
+APPROXIMATION PARALLEL:
+144
+Execution time: 160.312 milliseconds
+------
+HEURISTIC 2:
+130
+Execution time: 59.541 milliseconds
+------
+-----------------------
+input_data/pace_hidden_104.txt
+APPROXIMATION:
+322
+Execution time: 483.714 milliseconds
+------
+APPROXIMATION PARALLEL:
+322
+Execution time: 716.432 milliseconds
+------
+HEURISTIC 2:
+296
+Execution time: 559.221 milliseconds
+------
+-----------------------
+input_data/pace_hidden_105.txt
+APPROXIMATION:
+0
+Execution time: 61.183 milliseconds
+------
+APPROXIMATION PARALLEL:
+0
+Execution time: 64.877 milliseconds
+------
+HEURISTIC 2:
+409
+Execution time: 29124 milliseconds
+------
+-----------------------
+input_data/pace_hidden_106.txt
+APPROXIMATION:
+50
+Execution time: 7.226 milliseconds
+------
+APPROXIMATION PARALLEL:
+50
+Execution time: 45.513 milliseconds
+------
+HEURISTIC 2:
+57
+Execution time: 5.733 milliseconds
+------
+-----------------------
+input_data/pace_hidden_109.txt
+APPROXIMATION:
+35
+Execution time: 3.912 milliseconds
+------
+APPROXIMATION PARALLEL:
+35
+Execution time: 29.911 milliseconds
+------
+HEURISTIC 2:
+35
+Execution time: 2.769 milliseconds
+------
+-----------------------
+input_data/pace_hidden_11.txt
+APPROXIMATION:
+62
+Execution time: 965.2 milliseconds
+------
+APPROXIMATION PARALLEL:
+62
+Execution time: 1198.67 milliseconds
+------
+HEURISTIC 2:
+388
+Execution time: 82008.7 milliseconds
+------
+-----------------------
+input_data/pace_hidden_110.txt
+APPROXIMATION:
+166
+Execution time: 77.972 milliseconds
+------
+APPROXIMATION PARALLEL:
+166
+Execution time: 194.908 milliseconds
+------
+HEURISTIC 2:
+130
+Execution time: 53.038 milliseconds
+------
+-----------------------
+input_data/pace_hidden_111.txt
+APPROXIMATION:
+10
+Execution time: 0.588 milliseconds
+------
+APPROXIMATION PARALLEL:
+10
+Execution time: 9.301 milliseconds
+------
+HEURISTIC 2:
+12
+Execution time: 0.776 milliseconds
+------
+-----------------------
+input_data/pace_hidden_112.txt
+APPROXIMATION:
+4
+Execution time: 1.143 milliseconds
+------
+APPROXIMATION PARALLEL:
+4
+Execution time: 5.798 milliseconds
+------
+HEURISTIC 2:
+17
+Execution time: 20.313 milliseconds
+------
+-----------------------
+input_data/pace_hidden_113.txt
+APPROXIMATION:
+9
+Execution time: 1.647 milliseconds
+------
+APPROXIMATION PARALLEL:
+9
+Execution time: 10.739 milliseconds
+------
+HEURISTIC 2:
+24
+Execution time: 19.057 milliseconds
+------
+-----------------------
+input_data/pace_hidden_114.txt
+APPROXIMATION:
+8
+Execution time: 0.632 milliseconds
+------
+APPROXIMATION PARALLEL:
+8
+Execution time: 8.581 milliseconds
+------
+HEURISTIC 2:
+12
+Execution time: 1.76 milliseconds
+------
+-----------------------
+input_data/pace_hidden_115.txt
+APPROXIMATION:
+4
+Execution time: 0.574 milliseconds
+------
+APPROXIMATION PARALLEL:
+4
+Execution time: 4.589 milliseconds
+------
+HEURISTIC 2:
+13
+Execution time: 3.708 milliseconds
+------
+-----------------------
+input_data/pace_hidden_116.txt
+APPROXIMATION:
+14
+Execution time: 1.386 milliseconds
+------
+APPROXIMATION PARALLEL:
+14
+Execution time: 13.642 milliseconds
+------
+HEURISTIC 2:
+22
+Execution time: 8.077 milliseconds
+------
+-----------------------
+input_data/pace_hidden_117.txt
+APPROXIMATION:
+1
+Execution time: 0.811 milliseconds
+------
+APPROXIMATION PARALLEL:
+1
+Execution time: 2.544 milliseconds
+------
+HEURISTIC 2:
+16
+Execution time: 12.581 milliseconds
+------
+-----------------------
+input_data/pace_hidden_118.txt
+APPROXIMATION:
+16
+Execution time: 33.03 milliseconds
+------
+APPROXIMATION PARALLEL:
+16
+Execution time: 57.14 milliseconds
+------
+HEURISTIC 2:
+91
+Execution time: 2080.03 milliseconds
+------
+-----------------------
+input_data/pace_hidden_119.txt
+APPROXIMATION:
+7
+Execution time: 0.533 milliseconds
+------
+APPROXIMATION PARALLEL:
+7
+Execution time: 5.363 milliseconds
+------
+HEURISTIC 2:
+10
+Execution time: 0.525 milliseconds
+------
+-----------------------
+input_data/pace_hidden_12.txt
+APPROXIMATION:
+30
+Execution time: 10.533 milliseconds
+------
+APPROXIMATION PARALLEL:
+30
+Execution time: 34.178 milliseconds
+------
+HEURISTIC 2:
+47
+Execution time: 121.06 milliseconds
+------
+-----------------------
+input_data/pace_hidden_120.txt
+APPROXIMATION:
+2
+Execution time: 0.814 milliseconds
+------
+APPROXIMATION PARALLEL:
+2
+Execution time: 2.982 milliseconds
+------
+HEURISTIC 2:
+12
+Execution time: 5.804 milliseconds
+------
+-----------------------
+input_data/pace_hidden_121.txt
+APPROXIMATION:
+8
+Execution time: 0.872 milliseconds
+------
+APPROXIMATION PARALLEL:
+8
+Execution time: 6.652 milliseconds
+------
+HEURISTIC 2:
+11
+Execution time: 1.029 milliseconds
+------
+-----------------------
+input_data/pace_hidden_122.txt
+APPROXIMATION:
+7
+Execution time: 1.717 milliseconds
+------
+APPROXIMATION PARALLEL:
+7
+Execution time: 7.411 milliseconds
+------
+HEURISTIC 2:
+24
+Execution time: 21.357 milliseconds
+------
+-----------------------
+input_data/pace_hidden_123.txt
+APPROXIMATION:
+8
+Execution time: 1.041 milliseconds
+------
+APPROXIMATION PARALLEL:
+8
+Execution time: 7.075 milliseconds
+------
+HEURISTIC 2:
+14
+Execution time: 4.77 milliseconds
+------
+-----------------------
+input_data/pace_hidden_124.txt
+APPROXIMATION:
+6
+Execution time: 0.791 milliseconds
+------
+APPROXIMATION PARALLEL:
+6
+Execution time: 5.779 milliseconds
+------
+HEURISTIC 2:
+13
+Execution time: 3.377 milliseconds
+------
+-----------------------
+input_data/pace_hidden_125.txt
+APPROXIMATION:
+4
+Execution time: 0.55 milliseconds
+------
+APPROXIMATION PARALLEL:
+4
+Execution time: 4.394 milliseconds
+------
+HEURISTIC 2:
+13
+Execution time: 3.397 milliseconds
+------
+-----------------------
+input_data/pace_hidden_126.txt
+APPROXIMATION:
+6
+Execution time: 1.713 milliseconds
+------
+APPROXIMATION PARALLEL:
+6
+Execution time: 6.493 milliseconds
+------
+HEURISTIC 2:
+21
+Execution time: 24.447 milliseconds
+------
+-----------------------
+input_data/pace_hidden_127.txt
+APPROXIMATION:
+0
+Execution time: 0.498 milliseconds
+------
+APPROXIMATION PARALLEL:
+0
+Execution time: 0.996 milliseconds
+------
+HEURISTIC 2:
+11
+Execution time: 2.732 milliseconds
+------
+-----------------------
+input_data/pace_hidden_128.txt
+APPROXIMATION:
+83
+Execution time: 240.672 milliseconds
+------
+APPROXIMATION PARALLEL:
+83
+Execution time: 366.809 milliseconds
+------
+HEURISTIC 2:
+142
+Execution time: 6618.14 milliseconds
+------
+-----------------------
+input_data/pace_hidden_13.txt
+APPROXIMATION:
+23
+Execution time: 909.698 milliseconds
+------
+APPROXIMATION PARALLEL:
+23
+Execution time: 1067.45 milliseconds
+------
+HEURISTIC 2:
+334
+Execution time: 112427 milliseconds
+------
+-----------------------
+input_data/pace_hidden_14.txt
+APPROXIMATION:
+57
+Execution time: 1117.37 milliseconds
+------
+APPROXIMATION PARALLEL:
+57
+Execution time: 1510.89 milliseconds
+------
+HEURISTIC 2:
+399
+Execution time: 154714 milliseconds
+------
+-----------------------
+input_data/pace_hidden_15.txt
+APPROXIMATION:
+15
+Execution time: 1.703 milliseconds
+------
+APPROXIMATION PARALLEL:
+15
+Execution time: 16.353 milliseconds
+------
+HEURISTIC 2:
+24
+Execution time: 4.975 milliseconds
+------
+-----------------------
+input_data/pace_hidden_16.txt
+APPROXIMATION:
+35
+Execution time: 2.15 milliseconds
+------
+APPROXIMATION PARALLEL:
+35
+Execution time: 24.354 milliseconds
+------
+HEURISTIC 2:
+38
+Execution time: 1.42 milliseconds
+------
+-----------------------
+input_data/pace_hidden_17.txt
+APPROXIMATION:
+8
+Execution time: 0.85 milliseconds
+------
+APPROXIMATION PARALLEL:
+8
+Execution time: 7.876 milliseconds
+------
+HEURISTIC 2:
+14
+Execution time: 5.182 milliseconds
+------
+-----------------------
+input_data/pace_hidden_18.txt
+APPROXIMATION:
+13
+Execution time: 1.5 milliseconds
+------
+APPROXIMATION PARALLEL:
+13
+Execution time: 12.278 milliseconds
+------
+HEURISTIC 2:
+17
+Execution time: 5.641 milliseconds
+------
+-----------------------
+input_data/pace_hidden_19.txt
+APPROXIMATION:
+24
+Execution time: 2.547 milliseconds
+------
+APPROXIMATION PARALLEL:
+24
+Execution time: 20.984 milliseconds
+------
+HEURISTIC 2:
+38
+Execution time: 5.607 milliseconds
+------
+-----------------------
+input_data/pace_hidden_2.txt
+APPROXIMATION:
+20
+Execution time: 1.163 milliseconds
+------
+APPROXIMATION PARALLEL:
+20
+Execution time: 16.164 milliseconds
+------
+HEURISTIC 2:
+18
+Execution time: 1.288 milliseconds
+------
+-----------------------
+input_data/pace_hidden_20.txt
+APPROXIMATION:
+43
+Execution time: 8.285 milliseconds
+------
+APPROXIMATION PARALLEL:
+43
+Execution time: 40.285 milliseconds
+------
+HEURISTIC 2:
+63
+Execution time: 15.536 milliseconds
+------
+-----------------------
+input_data/pace_hidden_21.txt
+APPROXIMATION:
+43
+Execution time: 8.694 milliseconds
+------
+APPROXIMATION PARALLEL:
+43
+Execution time: 39.897 milliseconds
+------
+HEURISTIC 2:
+59
+Execution time: 17.427 milliseconds
+------
+-----------------------
+input_data/pace_hidden_22.txt
+APPROXIMATION:
+67
+Execution time: 16.038 milliseconds
+------
+APPROXIMATION PARALLEL:
+67
+Execution time: 65.899 milliseconds
+------
+HEURISTIC 2:
+86
+Execution time: 20.43 milliseconds
+------
+-----------------------
+input_data/pace_hidden_23.txt
+APPROXIMATION:
+83
+Execution time: 22.555 milliseconds
+------
+APPROXIMATION PARALLEL:
+83
+Execution time: 80.65 milliseconds
+------
+HEURISTIC 2:
+88
+Execution time: 27.623 milliseconds
+------
+-----------------------
+input_data/pace_hidden_24.txt
+APPROXIMATION:
+96
+Execution time: 28.429 milliseconds
+------
+APPROXIMATION PARALLEL:
+96
+Execution time: 98.952 milliseconds
+------
+HEURISTIC 2:
+102
+Execution time: 35.112 milliseconds
+------
+-----------------------
+input_data/pace_hidden_25.txt
+APPROXIMATION:
+111
+Execution time: 39.11 milliseconds
+------
+APPROXIMATION PARALLEL:
+111
+Execution time: 115.473 milliseconds
+------
+HEURISTIC 2:
+128
+Execution time: 35.181 milliseconds
+------
+-----------------------
+input_data/pace_hidden_26.txt
+APPROXIMATION:
+121
+Execution time: 48.264 milliseconds
+------
+APPROXIMATION PARALLEL:
+121
+Execution time: 131.062 milliseconds
+------
+HEURISTIC 2:
+156
+Execution time: 43.808 milliseconds
+------
+-----------------------
+input_data/pace_hidden_27.txt
+APPROXIMATION:
+146
+Execution time: 84.177 milliseconds
+------
+APPROXIMATION PARALLEL:
+146
+Execution time: 157.696 milliseconds
+------
+HEURISTIC 2:
+166
+Execution time: 53.731 milliseconds
+------
+-----------------------
+input_data/pace_hidden_28.txt
+APPROXIMATION:
+157
+Execution time: 79.957 milliseconds
+------
+APPROXIMATION PARALLEL:
+157
+Execution time: 174.633 milliseconds
+------
+HEURISTIC 2:
+169
+Execution time: 58.94 milliseconds
+------
+-----------------------
+input_data/pace_hidden_29.txt
+APPROXIMATION:
+141
+Execution time: 73.255 milliseconds
+------
+APPROXIMATION PARALLEL:
+141
+Execution time: 160.143 milliseconds
+------
+HEURISTIC 2:
+147
+Execution time: 76.949 milliseconds
+------
+-----------------------
+input_data/pace_hidden_3.txt
+APPROXIMATION:
+4
+Execution time: 256.079 milliseconds
+------
+APPROXIMATION PARALLEL:
+4
+Execution time: 274.05 milliseconds
+------
+HEURISTIC 2:
+26
+Execution time: 100540 milliseconds
+------
+-----------------------
+input_data/pace_hidden_32.txt
+APPROXIMATION:
+203
+Execution time: 1030.02 milliseconds
+------
+APPROXIMATION PARALLEL:
+203
+Execution time: 1387.63 milliseconds
+------
+HEURISTIC 2:
+349
+Execution time: 22003.9 milliseconds
+------
+-----------------------
+input_data/pace_hidden_33.txt
+APPROXIMATION:
+155
+Execution time: 563.843 milliseconds
+------
+APPROXIMATION PARALLEL:
+155
+Execution time: 883.029 milliseconds
+------
+HEURISTIC 2:
+307
+Execution time: 14986.9 milliseconds
+------
+-----------------------
+input_data/pace_hidden_34.txt
+APPROXIMATION:
+132
+Execution time: 364.636 milliseconds
+------
+APPROXIMATION PARALLEL:
+132
+Execution time: 649.179 milliseconds
+------
+HEURISTIC 2:
+255
+Execution time: 10395.5 milliseconds
+------
+-----------------------
+input_data/pace_hidden_35.txt
+APPROXIMATION:
+76
+Execution time: 136.758 milliseconds
+------
+APPROXIMATION PARALLEL:
+76
+Execution time: 265.204 milliseconds
+------
+HEURISTIC 2:
+163
+Execution time: 4953.98 milliseconds
+------
+-----------------------
+input_data/pace_hidden_36.txt
+APPROXIMATION:
+24
+Execution time: 20.114 milliseconds
+------
+APPROXIMATION PARALLEL:
+24
+Execution time: 46.202 milliseconds
+------
+HEURISTIC 2:
+39
+Execution time: 1016.14 milliseconds
+------
+-----------------------
+input_data/pace_hidden_37.txt
+APPROXIMATION:
+5
+Execution time: 4.252 milliseconds
+------
+APPROXIMATION PARALLEL:
+5
+Execution time: 10.519 milliseconds
+------
+HEURISTIC 2:
+23
+Execution time: 177.646 milliseconds
+-----------------------
+input_data/pace_hidden_41.txt
+APPROXIMATION:
+23
+Execution time: 2.815 milliseconds
+------
+APPROXIMATION PARALLEL:
+23
+Execution time: 26.693 milliseconds
+------
+HEURISTIC 2:
+96
+Execution time: 13.256 milliseconds
+------
+-----------------------
+input_data/pace_hidden_51.txt
+APPROXIMATION:
+142
+Execution time: 138.383 milliseconds
+------
+APPROXIMATION PARALLEL:
+142
+Execution time: 228.721 milliseconds
+------
+HEURISTIC 2:
+143
+Execution time: 253.989 milliseconds
+------
+-----------------------
+input_data/pace_hidden_53.txt
+APPROXIMATION:
+149
+Execution time: 123.164 milliseconds
+------
+APPROXIMATION PARALLEL:
+149
+Execution time: 234.014 milliseconds
+------
+HEURISTIC 2:
+147
+Execution time: 276.669 milliseconds
+------
+-----------------------
+input_data/pace_hidden_54.txt
+APPROXIMATION:
+154
+Execution time: 131.722 milliseconds
+------
+APPROXIMATION PARALLEL:
+154
+Execution time: 250.625 milliseconds
+------
+HEURISTIC 2:
+148
+Execution time: 293.709 milliseconds
+------
+-----------------------
+input_data/pace_hidden_56.txt
+APPROXIMATION:
+22
+Execution time: 2.303 milliseconds
+------
+APPROXIMATION PARALLEL:
+22
+Execution time: 21.974 milliseconds
+------
+HEURISTIC 2:
+24
+Execution time: 2.923 milliseconds
+------
+-----------------------
+input_data/pace_hidden_57.txt
+APPROXIMATION:
+34
+Execution time: 6.895 milliseconds
+------
+APPROXIMATION PARALLEL:
+34
+Execution time: 31.319 milliseconds
+------
+HEURISTIC 2:
+31
+Execution time: 8.689 milliseconds
+------
+-----------------------
+input_data/pace_hidden_67.txt
+APPROXIMATION:
+182
+Execution time: 94.727 milliseconds
+------
+APPROXIMATION PARALLEL:
+182
+Execution time: 206.938 milliseconds
+------
+HEURISTIC 2:
+144
+Execution time: 76.894 milliseconds
+------
+-----------------------
+input_data/pace_hidden_68.txt
+APPROXIMATION:
+37
+Execution time: 4.223 milliseconds
+------
+APPROXIMATION PARALLEL:
+37
+Execution time: 32.49 milliseconds
+------
+HEURISTIC 2:
+37
+Execution time: 4.594 milliseconds
+------
+-----------------------
+input_data/pace_hidden_69.txt
+APPROXIMATION:
+96
+Execution time: 30.801 milliseconds
+------
+APPROXIMATION PARALLEL:
+96
+Execution time: 96.875 milliseconds
+------
+HEURISTIC 2:
+92
+Execution time: 75.068 milliseconds
+------
+-----------------------
+input_data/pace_hidden_71.txt
+APPROXIMATION:
+170
+Execution time: 120.39 milliseconds
+------
+APPROXIMATION PARALLEL:
+170
+Execution time: 230.226 milliseconds
+------
+HEURISTIC 2:
+169
+Execution time: 133.315 milliseconds
+------
+-----------------------
+input_data/pace_hidden_72.txt
+APPROXIMATION:
+20
+Execution time: 1.576 milliseconds
+------
+APPROXIMATION PARALLEL:
+20
+Execution time: 26.128 milliseconds
+------
+HEURISTIC 2:
+15
+Execution time: 2.138 milliseconds
+------
+-----------------------
+input_data/pace_hidden_73.txt
+APPROXIMATION:
+26
+Execution time: 2.305 milliseconds
+------
+APPROXIMATION PARALLEL:
+26
+Execution time: 22.251 milliseconds
+------
+HEURISTIC 2:
+18
+Execution time: 3.104 milliseconds
+------
+-----------------------
+input_data/pace_hidden_74.txt
+APPROXIMATION:
+26
+Execution time: 2.291 milliseconds
+------
+APPROXIMATION PARALLEL:
+26
+Execution time: 21.114 milliseconds
+------
+HEURISTIC 2:
+19
+Execution time: 3.04 milliseconds
+------
+-----------------------
+input_data/pace_hidden_75.txt
+APPROXIMATION:
+26
+Execution time: 2.269 milliseconds
+------
+APPROXIMATION PARALLEL:
+26
+Execution time: 21.181 milliseconds
+------
+HEURISTIC 2:
+20
+Execution time: 2.916 milliseconds
+------
+-----------------------
+input_data/pace_hidden_76.txt
+APPROXIMATION:
+171
+Execution time: 166.868 milliseconds
+------
+APPROXIMATION PARALLEL:
+171
+Execution time: 293.975 milliseconds
+------
+HEURISTIC 2:
+114
+Execution time: 245.757 milliseconds
+------
+-----------------------
+input_data/pace_hidden_77.txt
+APPROXIMATION:
+31
+Execution time: 2.985 milliseconds
+------
+APPROXIMATION PARALLEL:
+31
+Execution time: 26.675 milliseconds
+------
+HEURISTIC 2:
+32
+Execution time: 3.508 milliseconds
+------
+-----------------------
+input_data/pace_hidden_78.txt
+APPROXIMATION:
+71
+Execution time: 10.751 milliseconds
+------
+APPROXIMATION PARALLEL:
+71
+Execution time: 60.69 milliseconds
+------
+HEURISTIC 2:
+81
+Execution time: 6.28 milliseconds
+------
+-----------------------
+input_data/pace_hidden_79.txt
+APPROXIMATION:
+82
+Execution time: 21.933 milliseconds
+------
+APPROXIMATION PARALLEL:
+82
+Execution time: 81.904 milliseconds
+------
+HEURISTIC 2:
+81
+Execution time: 22.719 milliseconds
+------
+-----------------------
+input_data/pace_hidden_80.txt
+APPROXIMATION:
+170
+Execution time: 125.106 milliseconds
+------
+APPROXIMATION PARALLEL:
+170
+Execution time: 227.293 milliseconds
+------
+HEURISTIC 2:
+169
+Execution time: 139.182 milliseconds
+------
+-----------------------
+input_data/pace_hidden_81.txt
+APPROXIMATION:
+72
+Execution time: 14.298 milliseconds
+------
+APPROXIMATION PARALLEL:
+72
+Execution time: 66.904 milliseconds
+------
+HEURISTIC 2:
+105
+Execution time: 9.059 milliseconds
+------
+-----------------------
+input_data/pace_hidden_82.txt
+APPROXIMATION:
+165
+Execution time: 89.27 milliseconds
+------
+APPROXIMATION PARALLEL:
+165
+Execution time: 197.606 milliseconds
+------
+HEURISTIC 2:
+148
+Execution time: 78.731 milliseconds
+------
+-----------------------
+input_data/pace_hidden_83.txt
+APPROXIMATION:
+38
+Execution time: 2.687 milliseconds
+------
+APPROXIMATION PARALLEL:
+38
+Execution time: 30.269 milliseconds
+------
+HEURISTIC 2:
+45
+Execution time: 1.449 milliseconds
+------
+-----------------------
+input_data/pace_hidden_84.txt
+APPROXIMATION:
+2
+Execution time: 0.464 milliseconds
+------
+APPROXIMATION PARALLEL:
+2
+Execution time: 3.478 milliseconds
+------
+HEURISTIC 2:
+9
+Execution time: 2.463 milliseconds
+------
+-----------------------
+input_data/pace_hidden_85.txt
+APPROXIMATION:
+13
+Execution time: 0.743 milliseconds
+------
+APPROXIMATION PARALLEL:
+13
+Execution time: 11.513 milliseconds
+------
+HEURISTIC 2:
+20
+Execution time: 0.758 milliseconds
+------
+-----------------------
+input_data/pace_hidden_86.txt
+APPROXIMATION:
+21
+Execution time: 1.341 milliseconds
+------
+APPROXIMATION PARALLEL:
+21
+Execution time: 18.735 milliseconds
+------
+HEURISTIC 2:
+25
+Execution time: 2.182 milliseconds
+------
+-----------------------
+input_data/pace_hidden_87.txt
+APPROXIMATION:
+74
+Execution time: 17.154 milliseconds
+------
+APPROXIMATION PARALLEL:
+74
+Execution time: 69.172 milliseconds
+------
+HEURISTIC 2:
+73
+Execution time: 18.54 milliseconds
+------
+-----------------------
+input_data/pace_hidden_88.txt
+APPROXIMATION:
+104
+Execution time: 30.148 milliseconds
+------
+APPROXIMATION PARALLEL:
+104
+Execution time: 104.738 milliseconds
+------
+HEURISTIC 2:
+93
+Execution time: 31.226 milliseconds
+------
+-----------------------
+input_data/pace_hidden_89.txt
+APPROXIMATION:
+120
+Execution time: 37.748 milliseconds
+------
+APPROXIMATION PARALLEL:
+120
+Execution time: 125.529 milliseconds
+------
+HEURISTIC 2:
+108
+Execution time: 29.912 milliseconds
+------
+-----------------------
+input_data/pace_hidden_90.txt
+APPROXIMATION:
+99
+Execution time: 33.919 milliseconds
+------
+APPROXIMATION PARALLEL:
+99
+Execution time: 100.597 milliseconds
+------
+HEURISTIC 2:
+125
+Execution time: 33.851 milliseconds
+------
+-----------------------
+input_data/pace_hidden_91.txt
+APPROXIMATION:
+89
+Execution time: 27.995 milliseconds
+------
+APPROXIMATION PARALLEL:
+89
+Execution time: 92.264 milliseconds
+------
+HEURISTIC 2:
+90
+Execution time: 54.059 milliseconds
+------
+-----------------------
+input_data/pace_hidden_92.txt
+APPROXIMATION:
+204
+Execution time: 122.901 milliseconds
+------
+APPROXIMATION PARALLEL:
+204
+Execution time: 266.028 milliseconds
+------
+HEURISTIC 2:
+159
+Execution time: 83.479 milliseconds
+------
+-----------------------
+input_data/pace_hidden_93.txt
+APPROXIMATION:
+155
+Execution time: 85.13 milliseconds
+------
+APPROXIMATION PARALLEL:
+155
+Execution time: 187.153 milliseconds
+------
+HEURISTIC 2:
+151
+Execution time: 91.463 milliseconds
+------
+-----------------------
+input_data/pace_hidden_94.txt
+APPROXIMATION:
+168
+Execution time: 97.398 milliseconds
+------
+APPROXIMATION PARALLEL:
+168
+Execution time: 199.12 milliseconds
+------
+HEURISTIC 2:
+172
+Execution time: 130.481 milliseconds
+------
+-----------------------
+input_data/pace_hidden_95.txt
+APPROXIMATION:
+177
+Execution time: 129.438 milliseconds
+------
+APPROXIMATION PARALLEL:
+177
+Execution time: 257.89 milliseconds
+------
+HEURISTIC 2:
+176
+Execution time: 161.844 milliseconds
+------
+-----------------------
+input_data/pace_hidden_96.txt
+APPROXIMATION:
+271
+Execution time: 247.652 milliseconds
+------
+APPROXIMATION PARALLEL:
+271
+Execution time: 490.643 milliseconds
+------
+HEURISTIC 2:
+240
+Execution time: 190.928 milliseconds
+------
+-----------------------
+input_data/pace_hidden_97.txt
+APPROXIMATION:
+224
+Execution time: 275.722 milliseconds
+------
+APPROXIMATION PARALLEL:
+224
+Execution time: 500.869 milliseconds
+------
+HEURISTIC 2:
+215
+Execution time: 334.252 milliseconds
+------
+-----------------------
+input_data/pace_hidden_98.txt
+APPROXIMATION:
+237
+Execution time: 268.639 milliseconds
+------
+APPROXIMATION PARALLEL:
+237
+Execution time: 480.552 milliseconds
+------
+HEURISTIC 2:
+203
+Execution time: 448.771 milliseconds
+------
+-----------------------
+input_data/pace_hidden_99.txt
+APPROXIMATION:
+18
+Execution time: 1.207 milliseconds
+------
+APPROXIMATION PARALLEL:
+18
+Execution time: 16.428 milliseconds
+------
+HEURISTIC 2:
+18
+Execution time: 2.047 milliseconds
+------
+-----------------------

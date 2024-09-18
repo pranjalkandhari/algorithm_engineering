@@ -1,0 +1,178 @@
+Number of cores: 1
+Input array size: 1000000
+Total time (ms) 17477
+-------------
+Number of cores: 2
+Input array size: 1000000
+Total time (ms) 119086
+-------------
+Number of cores: 3
+Input array size: 1000000
+Total time (ms) 119902
+-------------
+Number of cores: 4
+Input array size: 1000000
+Total time (ms) 123259
+-------------
+Number of cores: 5
+Input array size: 1000000
+Total time (ms) 132484
+-------------
+Number of cores: 6
+Input array size: 1000000
+Total time (ms) 143240
+-------------
+Number of cores: 7
+Input array size: 1000000
+Total time (ms) 164228
+-------------
+Number of cores: 8
+Input array size: 1000000
+Total time (ms) 174826
+
+
+
+
+Number of cores: 1
+Input array size: 100000
+Total time (ms) 1312
+-------------
+Number of cores: 2
+Input array size: 100000
+Total time (ms) 7868
+-------------
+Number of cores: 3
+Input array size: 100000
+Total time (ms) 9417
+-------------
+Number of cores: 4
+Input array size: 100000
+Total time (ms) 9136
+-------------
+Number of cores: 5
+Input array size: 100000
+Total time (ms) 9843
+-------------
+Number of cores: 6
+Input array size: 100000
+Total time (ms) 10502
+-------------
+Number of cores: 7
+Input array size: 100000
+Total time (ms) 12055
+-------------
+Number of cores: 8
+Input array size: 100000
+Total time (ms) 13061
+-------------
+
+
+
+Number of cores: 1
+Input array size: 10000
+Total time (ms) 130
+-------------
+Number of cores: 2
+Input array size: 10000
+Total time (ms) 713
+-------------
+Number of cores: 3
+Input array size: 10000
+Total time (ms) 800
+-------------
+Number of cores: 4
+Input array size: 10000
+Total time (ms) 904
+-------------
+Number of cores: 5
+Input array size: 10000
+Total time (ms) 1016
+-------------
+Number of cores: 6
+Input array size: 10000
+Total time (ms) 1060
+-------------
+Number of cores: 7
+Input array size: 10000
+Total time (ms) 1061
+-------------
+Number of cores: 8
+Input array size: 10000
+Total time (ms) 1133
+-------------
+
+
+
+
+Number of cores: 1
+Input array size: 1000
+Total time (ms) 13
+-------------
+Number of cores: 2
+Input array size: 1000
+Total time (ms) 79
+-------------
+Number of cores: 3
+Input array size: 1000
+Total time (ms) 81
+-------------
+Number of cores: 4
+Input array size: 1000
+Total time (ms) 92
+-------------
+Number of cores: 5
+Input array size: 1000
+Total time (ms) 101
+-------------
+Number of cores: 6
+Input array size: 1000
+Total time (ms) 106
+-------------
+Number of cores: 7
+Input array size: 1000
+Total time (ms) 111
+-------------
+Number of cores: 8
+Input array size: 1000
+Total time (ms) 116
+-------------
+
+
+
+Number of cores: 1
+Input array size: 100
+Total time (ms) 1
+-------------
+Number of cores: 2
+Input array size: 100
+Total time (ms) 10
+-------------
+Number of cores: 3
+Input array size: 100
+Total time (ms) 9
+-------------
+Number of cores: 4
+Input array size: 100
+Total time (ms) 10
+-------------
+Number of cores: 5
+Input array size: 100
+Total time (ms) 11
+-------------
+Number of cores: 6
+Input array size: 100
+Total time (ms) 11
+-------------
+Number of cores: 7
+Input array size: 100
+Total time (ms) 12
+-------------
+Number of cores: 8
+Input array size: 100
+Total time (ms) 12
+-------------
+
+
+
+
+

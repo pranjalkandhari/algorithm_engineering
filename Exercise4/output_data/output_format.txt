@@ -1,0 +1,19 @@
+Output file naming format:
+
+SNo_country_a: The output of the nearest neighbor algorithm.
+
+SNo_country_b: The initial path of the 2 opt algorithm.
+
+SNo_country_c: The state of the 2-opt algorithm in the approximate middle of the number of iterations.
+
+SNo_country_d: The final output of the 2-opt algorithm.
+
+SNo_country_e: The final output of the 2-opt algorithm when the nearest neighbor output is given as the initial path for the 2-opt algorithm.
+
+Output format:
+
+The output contains the path the traveling salesman should take in n lines in each of the format:
+
+from_node to_node distance
+
+distance: euclidean distance between the from_node and to_node.

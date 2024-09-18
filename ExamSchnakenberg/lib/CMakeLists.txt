@@ -1,0 +1,11 @@
+add_library(GraphFunctions graph.cpp)
+add_library(Utils utils.cpp)
+add_library(Heuristic heuristic.cpp)
+add_library(Approximation approximation.cpp)
+add_library(Exact exact.cpp)
+
+target_link_libraries(GraphFunctions Boost::boost igraph)
+#target_link_libraries(Utils)
+target_link_libraries(Heuristic igraph)
+target_link_libraries(Approximation igraph OpenMP::OpenMP_CXX)
+target_link_libraries(Exact igraph Utils)

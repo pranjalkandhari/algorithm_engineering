@@ -1,0 +1,1134 @@
+input_data/pace_072.txt
+K: 1
+EXACT:
+
+Execution time: 0.987 milliseconds
+------
+HEURISTIC:
+
+Execution time: 0.691 milliseconds
+------
+EXACT PARALLEL:
+
+Execution time: 0.614 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+
+Execution time: 0.49 milliseconds
+------
+APPROXIMATION:
+
+Execution time: 0.303 milliseconds
+------
+APPROXIMATION PARALLEL:
+
+Execution time: 1.174 milliseconds
+------
+-----------------------
+input_data/pace_hidden_127.txt
+K: 4
+EXACT:
+
+Execution time: 0.52 milliseconds
+------
+HEURISTIC:
+
+Execution time: 0.86 milliseconds
+------
+EXACT PARALLEL:
+11
+Execution time: 1.242 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+11
+Execution time: 1.056 milliseconds
+------
+APPROXIMATION:
+
+Execution time: 0.211 milliseconds
+------
+APPROXIMATION PARALLEL:
+
+Execution time: 1.547 milliseconds
+------
+-----------------------
+input_data/graph_08.txt
+K: 5
+EXACT:
+2
+Execution time: 0.111 milliseconds
+------
+HEURISTIC:
+2
+Execution time: 0.093 milliseconds
+------
+EXACT PARALLEL:
+2
+Execution time: 0.64 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+2
+Execution time: 0.671 milliseconds
+------
+APPROXIMATION:
+2
+Execution time: 0.067 milliseconds
+------
+APPROXIMATION PARALLEL:
+2
+Execution time: 1.252 milliseconds
+------
+-----------------------
+input_data/pace_hidden_84.txt
+K: 6
+EXACT:
+9 22
+Execution time: 3.644 milliseconds
+------
+HEURISTIC:
+9 22
+Execution time: 3.165 milliseconds
+------
+EXACT PARALLEL:
+5 19
+Execution time: 3.087 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+5 19
+Execution time: 2.348 milliseconds
+------
+APPROXIMATION:
+5 19
+Execution time: 0.488 milliseconds
+------
+APPROXIMATION PARALLEL:
+5 19
+Execution time: 2.866 milliseconds
+------
+-----------------------
+input_data/graph_01.txt
+K: 7
+EXACT:
+2 5
+Execution time: 0.263 milliseconds
+------
+HEURISTIC:
+4 1
+Execution time: 0.241 milliseconds
+------
+EXACT PARALLEL:
+1 4
+Execution time: 0.917 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+1 4
+Execution time: 0.826 milliseconds
+------
+APPROXIMATION:
+2 4
+Execution time: 0.043 milliseconds
+------
+APPROXIMATION PARALLEL:
+2 4
+Execution time: 1.913 milliseconds
+------
+-----------------------
+input_data/graph_03.txt
+K: 7
+EXACT:
+2 5
+Execution time: 0.215 milliseconds
+------
+HEURISTIC:
+4 1
+Execution time: 0.213 milliseconds
+------
+EXACT PARALLEL:
+1 4
+Execution time: 1.087 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+1 4
+Execution time: 0.815 milliseconds
+------
+APPROXIMATION:
+2 4
+Execution time: 0.053 milliseconds
+------
+APPROXIMATION PARALLEL:
+2 4
+Execution time: 2.696 milliseconds
+------
+-----------------------
+input_data/graph_04.txt
+K: 7
+EXACT:
+2 5
+Execution time: 0.446 milliseconds
+------
+HEURISTIC:
+4 1
+Execution time: 1.175 milliseconds
+------
+EXACT PARALLEL:
+1 4
+Execution time: 0.978 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+1 4
+Execution time: 0.786 milliseconds
+------
+APPROXIMATION:
+2 3 4
+Execution time: 0.078 milliseconds
+------
+APPROXIMATION PARALLEL:
+2 3 4
+Execution time: 2.082 milliseconds
+------
+-----------------------
+input_data/graph_07.txt
+K: 8
+EXACT:
+2 6
+Execution time: 0.342 milliseconds
+------
+HEURISTIC:
+2 6
+Execution time: 0.449 milliseconds
+------
+EXACT PARALLEL:
+2 5
+Execution time: 0.895 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+2 5
+Execution time: 1.122 milliseconds
+------
+APPROXIMATION:
+2 3 6
+Execution time: 0.054 milliseconds
+------
+APPROXIMATION PARALLEL:
+2 3 6
+Execution time: 2.314 milliseconds
+------
+-----------------------
+input_data/graph_09.txt
+K: 8
+EXACT:
+2 5
+Execution time: 0.461 milliseconds
+------
+HEURISTIC:
+2 5
+Execution time: 0.482 milliseconds
+------
+EXACT PARALLEL:
+2 5
+Execution time: 0.801 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+2 5
+Execution time: 0.866 milliseconds
+------
+APPROXIMATION:
+2 5
+Execution time: 0.061 milliseconds
+------
+APPROXIMATION PARALLEL:
+2 5
+Execution time: 1.788 milliseconds
+------
+-----------------------
+input_data/graph_10.txt
+K: 8
+EXACT:
+1 2 3 4 5 6
+Execution time: 1.513 milliseconds
+------
+HEURISTIC:
+1 2 3 4 5 6
+Execution time: 2.065 milliseconds
+------
+EXACT PARALLEL:
+0 1 2 3 4 5
+Execution time: 3.148 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+0 1 2 3 4 5
+Execution time: 3 milliseconds
+------
+APPROXIMATION:
+0 1 2 3 4 5
+Execution time: 0.199 milliseconds
+------
+APPROXIMATION PARALLEL:
+0 1 2 3 4 5
+Execution time: 5.618 milliseconds
+------
+-----------------------
+input_data/pace_095.txt
+K: 8
+EXACT:
+5 37
+Execution time: 6.595 milliseconds
+------
+HEURISTIC:
+37 55
+Execution time: 6.112 milliseconds
+------
+EXACT PARALLEL:
+4 19
+Execution time: 3.518 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+4 19
+Execution time: 3.733 milliseconds
+------
+APPROXIMATION:
+4 19
+Execution time: 0.305 milliseconds
+------
+APPROXIMATION PARALLEL:
+4 19
+Execution time: 3.99 milliseconds
+------
+-----------------------
+input_data/graph_05.txt
+K: 9
+EXACT:
+2 9
+Execution time: 0.716 milliseconds
+------
+HEURISTIC:
+2 9
+Execution time: 0.67 milliseconds
+------
+EXACT PARALLEL:
+2 8
+Execution time: 2.597 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+2 8
+Execution time: 1.451 milliseconds
+------
+APPROXIMATION:
+2 6 8
+Execution time: 0.114 milliseconds
+------
+APPROXIMATION PARALLEL:
+2 6 8
+Execution time: 2.926 milliseconds
+------
+-----------------------
+input_data/pace_hidden_120.txt
+K: 9
+EXACT:
+20 68
+Execution time: 11.746 milliseconds
+------
+HEURISTIC:
+20 68
+Execution time: 11.408 milliseconds
+------
+EXACT PARALLEL:
+2 10
+Execution time: 5.44 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+2 10
+Execution time: 4.236 milliseconds
+------
+APPROXIMATION:
+2 10
+Execution time: 0.437 milliseconds
+------
+APPROXIMATION PARALLEL:
+2 10
+Execution time: 3.435 milliseconds
+------
+-----------------------
+input_data/pace_hidden_125.txt
+K: 13
+EXACT:
+2 18 33
+Execution time: 58.246 milliseconds
+------
+HEURISTIC:
+18 0 33
+Execution time: 59.764 milliseconds
+------
+EXACT PARALLEL:
+0 18 28
+Execution time: 24.102 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+0 18 28
+Execution time: 27.237 milliseconds
+------
+APPROXIMATION:
+18 1 2 28
+Execution time: 0.351 milliseconds
+------
+APPROXIMATION PARALLEL:
+18 1 2 28
+Execution time: 5.422 milliseconds
+------
+-----------------------
+input_data/graph_06.txt
+K: 14
+EXACT:
+2 6 8 12
+Execution time: 26.84 milliseconds
+------
+HEURISTIC:
+2 8 6 12
+Execution time: 26.972 milliseconds
+------
+EXACT PARALLEL:
+0 1 5 11
+Execution time: 24.008 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+0 1 5 11
+Execution time: 28.469 milliseconds
+------
+APPROXIMATION:
+11 2 4 6
+Execution time: 0.09 milliseconds
+------
+APPROXIMATION PARALLEL:
+11 2 4 6
+Execution time: 4.25 milliseconds
+------
+-----------------------
+input_data/graph_11.txt
+K: 15
+EXACT:
+1 2 3 4
+Execution time: 36.926 milliseconds
+------
+HEURISTIC:
+1 2 3 4
+Execution time: 35.102 milliseconds
+------
+EXACT PARALLEL:
+0 1 2 3
+Execution time: 13.181 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+0 1 2 3
+Execution time: 12.834 milliseconds
+------
+APPROXIMATION:
+0 1 2 3
+Execution time: 0.113 milliseconds
+------
+APPROXIMATION PARALLEL:
+0 1 2 3
+Execution time: 4.295 milliseconds
+------
+-----------------------
+input_data/pace_028.txt
+K: 15
+EXACT:
+18 22 38
+Execution time: 95.23 milliseconds
+------
+HEURISTIC:
+5 29 50
+Execution time: 97.905 milliseconds
+------
+EXACT PARALLEL:
+4 13 21
+Execution time: 33.529 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+4 13 21
+Execution time: 34.053 milliseconds
+------
+APPROXIMATION:
+18 13 21
+Execution time: 0.285 milliseconds
+------
+APPROXIMATION PARALLEL:
+18 13 21
+Execution time: 3.842 milliseconds
+------
+-----------------------
+input_data/pace_042.txt
+K: 15
+EXACT:
+8 14 31 32
+Execution time: 283.506 milliseconds
+------
+HEURISTIC:
+8 14 32 12
+Execution time: 285.505 milliseconds
+------
+EXACT PARALLEL:
+8 11 14 31
+Execution time: 149.78 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+8 11 14 31
+Execution time: 152.191 milliseconds
+------
+APPROXIMATION:
+3 8 31 14 32
+Execution time: 0.384 milliseconds
+------
+APPROXIMATION PARALLEL:
+3 8 31 14 32
+Execution time: 5.386 milliseconds
+------
+-----------------------
+input_data/pace_050.txt
+K: 16
+EXACT:
+2 7 8 13 21
+Execution time: 616.545 milliseconds
+------
+HEURISTIC:
+2 8 6 20 23
+Execution time: 622.278 milliseconds
+------
+EXACT PARALLEL:
+2 3 7 8 13
+Execution time: 330.916 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+2 3 7 8 13
+Execution time: 352.394 milliseconds
+------
+APPROXIMATION:
+2 3 8 7 13
+Execution time: 0.264 milliseconds
+------
+APPROXIMATION PARALLEL:
+2 3 8 7 13
+Execution time: 4.897 milliseconds
+------
+-----------------------
+input_data/pace_070.txt
+K: 16
+EXACT:
+52 145
+Execution time: 126.595 milliseconds
+------
+HEURISTIC:
+52 145
+Execution time: 126.857 milliseconds
+------
+EXACT PARALLEL:
+51 136
+Execution time: 3011.16 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+51 136
+Execution time: 3039.54 milliseconds
+------
+APPROXIMATION:
+51 52 136
+Execution time: 2.388 milliseconds
+------
+APPROXIMATION PARALLEL:
+51 52 136
+Execution time: 6.045 milliseconds
+------
+-----------------------
+input_data/pace_096.txt
+K: 16
+EXACT:
+12 13 20 28
+Execution time: 230.366 milliseconds
+------
+HEURISTIC:
+11 28 35 3
+Execution time: 233.453 milliseconds
+------
+EXACT PARALLEL:
+2 10 13 28
+Execution time: 105.212 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+2 10 13 28
+Execution time: 108.284 milliseconds
+------
+APPROXIMATION:
+13 28 11 20
+Execution time: 0.247 milliseconds
+------
+APPROXIMATION PARALLEL:
+13 28 11 20
+Execution time: 4.498 milliseconds
+------
+-----------------------
+input_data/pace_hidden_112.txt
+K: 17
+EXACT:
+18 56 77 82
+Execution time: 1693.52 milliseconds
+------
+HEURISTIC:
+77 53 48 17
+Execution time: 1712.31 milliseconds
+------
+EXACT PARALLEL:
+2 6 48 53
+Execution time: 537.531 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+2 6 48 53
+Execution time: 524.611 milliseconds
+------
+APPROXIMATION:
+6 2 48 53
+Execution time: 1.025 milliseconds
+------
+APPROXIMATION PARALLEL:
+6 2 48 53
+Execution time: 5.101 milliseconds
+------
+-----------------------
+input_data/pace_hidden_124.txt
+K: 17
+EXACT:
+2 13 24 50
+Execution time: 548.113 milliseconds
+------
+HEURISTIC:
+13 50 22 0
+Execution time: 546.982 milliseconds
+------
+EXACT PARALLEL:
+0 13 20 25
+Execution time: 306.936 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+0 13 20 25
+Execution time: 296.267 milliseconds
+------
+APPROXIMATION:
+13 8 25 0 2 20
+Execution time: 0.606 milliseconds
+------
+APPROXIMATION PARALLEL:
+13 8 25 0 2 20
+Execution time: 6.873 milliseconds
+------
+-----------------------
+input_data/pace_hidden_115.txt
+K: 18
+EXACT:
+13 30 39 45
+Execution time: 698.708 milliseconds
+------
+HEURISTIC:
+13 30 39 45
+Execution time: 692.826 milliseconds
+------
+EXACT PARALLEL:
+13 30 37 38
+Execution time: 362.145 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+13 30 37 38
+Execution time: 349.131 milliseconds
+------
+APPROXIMATION:
+13 30 37 39
+Execution time: 0.493 milliseconds
+------
+APPROXIMATION PARALLEL:
+13 30 37 39
+Execution time: 4.956 milliseconds
+------
+-----------------------
+input_data/pace_hidden_117.txt
+K: 18
+EXACT:
+54
+Execution time: 9.132 milliseconds
+------
+HEURISTIC:
+54
+Execution time: 9.168 milliseconds
+------
+EXACT PARALLEL:
+49
+Execution time: 55.443 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+49
+Execution time: 50.292 milliseconds
+------
+APPROXIMATION:
+49
+Execution time: 0.713 milliseconds
+------
+APPROXIMATION PARALLEL:
+49
+Execution time: 2.862 milliseconds
+------
+-----------------------
+input_data/pace_020.txt
+K: 19
+EXACT:
+18 25 26 35 44
+Execution time: 2788.02 milliseconds
+------
+HEURISTIC:
+18 16 14 6 4
+Execution time: 2797.37 milliseconds
+------
+EXACT PARALLEL:
+4 6 14 16 18
+Execution time: 1169.7 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+4 6 14 16 18
+Execution time: 1138.41 milliseconds
+------
+APPROXIMATION:
+18 4 6 14 16
+Execution time: 1.073 milliseconds
+------
+APPROXIMATION PARALLEL:
+18 4 6 14 16
+Execution time: 5.149 milliseconds
+------
+-----------------------
+input_data/graph_02.txt
+K: 20
+EXACT:
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+Execution time: 19494.7 milliseconds
+------
+HEURISTIC:
+19 18 17 16 15 14 13 12 11 0 9 8 7 6 5 4 3 2
+Execution time: 19594.2 milliseconds
+------
+EXACT PARALLEL:
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Execution time: 21304 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Execution time: 23429.7 milliseconds
+------
+APPROXIMATION:
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Execution time: 0.392 milliseconds
+------
+APPROXIMATION PARALLEL:
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Execution time: 13.584 milliseconds
+------
+-----------------------
+input_data/pace_hidden_4.txt
+K: 20
+EXACT:
+41 47 65 67
+Execution time: 5865.39 milliseconds
+------
+HEURISTIC:
+41 65 67 47
+Execution time: 5839.92 milliseconds
+------
+EXACT PARALLEL:
+32 41 43 65
+Execution time: 2701.92 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+32 41 43 65
+Execution time: 2565.31 milliseconds
+------
+APPROXIMATION:
+32 41 65 67 44
+Execution time: 2.041 milliseconds
+------
+APPROXIMATION PARALLEL:
+32 41 65 67 44
+Execution time: 7.345 milliseconds
+------
+-----------------------
+input_data/pace_062.txt
+K: 21
+EXACT:
+11 13 17 21 46
+Execution time: 3046.64 milliseconds
+------
+HEURISTIC:
+11 13 17 9 1
+Execution time: 3096.58 milliseconds
+------
+EXACT PARALLEL:
+0 9 11 13 17
+Execution time: 1180.6 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+0 9 11 13 17
+Execution time: 1189.35 milliseconds
+------
+APPROXIMATION:
+0 11 13 17 9
+Execution time: 0.38 milliseconds
+------
+APPROXIMATION PARALLEL:
+0 11 13 17 9
+Execution time: 5.537 milliseconds
+------
+-----------------------
+input_data/pace_hidden_121.txt
+K: 21
+EXACT:
+8 12 21 30 39 43
+Execution time: 6295.94 milliseconds
+------
+HEURISTIC:
+12 8 38 43 29 20
+Execution time: 6374.25 milliseconds
+------
+EXACT PARALLEL:
+6 12 19 27 38 41
+Execution time: 20002.5 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+6 12 19 27 38 41
+Execution time: 19197.8 milliseconds
+------
+APPROXIMATION:
+12 21 7 38 8 27 39 41
+Execution time: 0.36 milliseconds
+------
+APPROXIMATION PARALLEL:
+12 21 7 38 8 27 39 41
+Execution time: 7.224 milliseconds
+------
+-----------------------
+input_data/pace_hidden_119.txt
+K: 22
+EXACT:
+0 4 10 14 17 21
+Execution time: 5481.92 milliseconds
+------
+HEURISTIC:
+17 0 21 4 10 14
+Execution time: 5259.94 milliseconds
+------
+EXACT PARALLEL:
+0 4 5 8 17 21
+Execution time: 2224.83 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+0 4 5 8 17 21
+Execution time: 2229.01 milliseconds
+------
+APPROXIMATION:
+17 0 21 4 6 3 12
+Execution time: 0.337 milliseconds
+------
+APPROXIMATION PARALLEL:
+17 0 21 4 6 3 12
+Execution time: 6.621 milliseconds
+------
+-----------------------
+input_data/pace_036.txt
+K: 24
+EXACT:
+
+Execution time: 168.864 milliseconds
+------
+HEURISTIC:
+
+Execution time: 130.128 milliseconds
+------
+EXACT PARALLEL:
+10
+Execution time: 509.914 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+10
+Execution time: 509.522 milliseconds
+------
+APPROXIMATION:
+
+Execution time: 60.783 milliseconds
+------
+APPROXIMATION PARALLEL:
+
+Execution time: 65.05 milliseconds
+------
+-----------------------
+input_data/pace_099.txt
+K: 24
+EXACT:
+1 4 13 18 19 22 25 30
+Execution time: 72453.1 milliseconds
+------
+HEURISTIC:
+4 1 19 30 11 9 33 16
+Execution time: 72506.3 milliseconds
+------
+EXACT PARALLEL:
+1 4 6 9 11 12 16 30
+Execution time: 48414.3 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+1 4 6 9 11 12 16 30
+Execution time: 49816.7 milliseconds
+------
+APPROXIMATION:
+4 1 7 30 18 2 5 9 12 16
+Execution time: 0.691 milliseconds
+------
+APPROXIMATION PARALLEL:
+4 1 7 30 18 2 5 9 12 16
+Execution time: 19.035 milliseconds
+------
+-----------------------
+input_data/pace_hidden_114.txt
+K: 24
+EXACT:
+13 19 23 29 43 50 52
+Execution time: 55978.7 milliseconds
+------
+HEURISTIC:
+13 23 14 19 26 50 25
+Execution time: 56320.2 milliseconds
+------
+EXACT PARALLEL:
+1 10 14 16 23 26 28
+Execution time: 28053.5 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+1 10 14 16 23 26 28
+Execution time: 27619 milliseconds
+------
+APPROXIMATION:
+16 13 23 14 28 43 19 26
+Execution time: 0.401 milliseconds
+------
+APPROXIMATION PARALLEL:
+16 13 23 14 28 43 19 26
+Execution time: 7.616 milliseconds
+------
+-----------------------
+input_data/pace_hidden_37.txt
+K: 24
+EXACT:
+7 14 78
+Execution time: 5445.74 milliseconds
+------
+HEURISTIC:
+7 14 25
+Execution time: 5473.69 milliseconds
+------
+EXACT PARALLEL:
+7 14 25
+Execution time: 827.09 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+7 14 25
+Execution time: 820.02 milliseconds
+------
+APPROXIMATION:
+7 14 19 165 25
+Execution time: 3.847 milliseconds
+------
+APPROXIMATION PARALLEL:
+7 14 19 165 25
+Execution time: 9.947 milliseconds
+------
+-----------------------
+input_data/pace_046.txt
+K: 25
+EXACT:
+7 16 19 24 40 42 43 47 53
+Execution time: 568059 milliseconds
+------
+HEURISTIC:
+7 53 47 43 24 42 40 16 19
+Execution time: 571178 milliseconds
+------
+EXACT PARALLEL:
+4 5 6 7 24 28 42 43 47
+Execution time: 324033 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+4 5 6 7 24 28 42 43 47
+Execution time: 353766 milliseconds
+------
+APPROXIMATION:
+25 5 6 42 7 24 16 28 31 49 55
+Execution time: 0.643 milliseconds
+------
+APPROXIMATION PARALLEL:
+25 5 6 42 7 24 16 28 31 49 55
+Execution time: 9.984 milliseconds
+------
+-----------------------
+input_data/pace_088.txt
+K: 26
+EXACT:
+
+Execution time: 179.468 milliseconds
+------
+HEURISTIC:
+
+Execution time: 186.026 milliseconds
+------
+EXACT PARALLEL:
+44
+Execution time: 648.795 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+44
+Execution time: 671.92 milliseconds
+------
+APPROXIMATION:
+
+Execution time: 82.883 milliseconds
+------
+APPROXIMATION PARALLEL:
+
+Execution time: 85.361 milliseconds
+------
+-----------------------
+input_data/pace_091.txt
+K: 26
+EXACT:
+
+Execution time: 2.93 milliseconds
+------
+HEURISTIC:
+
+Execution time: 2.923 milliseconds
+------
+EXACT PARALLEL:
+0
+Execution time: 14.201 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+0
+Execution time: 14.574 milliseconds
+------
+APPROXIMATION:
+
+Execution time: 1.506 milliseconds
+------
+APPROXIMATION PARALLEL:
+
+Execution time: 4.444 milliseconds
+------
+-----------------------
+input_data/pace_hidden_111.txt
+K: 26
+EXACT:
+2 6 12 15 17 20 23 24
+Execution time: 148214 milliseconds
+------
+HEURISTIC:
+12 20 17 4 1 27 22 15
+Execution time: 148314 milliseconds
+------
+EXACT PARALLEL:
+2 4 12 13 17 20 21 24
+Execution time: 87204.7 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+2 4 12 13 17 20 21 24
+Execution time: 83051.9 milliseconds
+------
+APPROXIMATION:
+12 6 24 4 17 2 20 5 15 22
+Execution time: 0.654 milliseconds
+------
+APPROXIMATION PARALLEL:
+12 6 24 4 17 2 20 5 15 22
+Execution time: 9.555 milliseconds
+------
+-----------------------
+input_data/pace_hidden_48.txt
+K: 26
+EXACT:
+
+Execution time: 175.364 milliseconds
+------
+HEURISTIC:
+
+Execution time: 178.062 milliseconds
+------
+EXACT PARALLEL:
+250
+Execution time: 650.019 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+250
+Execution time: 696.558 milliseconds
+------
+APPROXIMATION:
+
+Execution time: 82.687 milliseconds
+------
+APPROXIMATION PARALLEL:
+
+Execution time: 90.808 milliseconds
+------
+-----------------------
+input_data/pace_hidden_126.txt
+K: 27
+EXACT:
+14 21 37 47 106 143
+Execution time: 231873 milliseconds
+------
+HEURISTIC:
+104 143 46 34 19 12
+Execution time: 231221 milliseconds
+------
+EXACT PARALLEL:
+12 19 34 44 81 104
+Execution time: 296872 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+12 19 34 44 81 104
+Execution time: 294687 milliseconds
+------
+APPROXIMATION:
+12 19 34 44 81 104
+Execution time: 1.195 milliseconds
+------
+APPROXIMATION PARALLEL:
+12 19 34 44 81 104
+Execution time: 9.924 milliseconds
+------
+-----------------------
+input_data/pace_hidden_123.txt
+K: 29
+EXACT:
+23 26 33 37 52 58 66
+Execution time: 354142 milliseconds
+------
+HEURISTIC:
+26 48 23 65 32 18 51
+Execution time: 354074 milliseconds
+------
+EXACT PARALLEL:
+18 23 26 33 37 50 53
+Execution time: 599643 milliseconds
+------
+EXACT PARALLEL with Heuristic:
+18 23 26 33 37 50 53
+Execution time: 608402 milliseconds
+------
+APPROXIMATION:
+37 26 33 23 48 58 51 65
+Execution time: 0.579 milliseconds
+------
+APPROXIMATION PARALLEL:
+37 26 33 23 48 58 51 65
+Execution time: 9.186 milliseconds
+------
+-----------------------
